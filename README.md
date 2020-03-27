@@ -1,10 +1,9 @@
 # DarthBossBar-API-Wiki
 Spigot: https://www.spigotmc.org/resources/darthbossbar.76557/
 \
-\
-### My Links:\
-    Discord: DarthBoomerPlay#6534 \
-    VK: https://vk.com/darthboomerplay \
+### My Links:
+    Discord: DarthBoomerPlay#6534
+    VK: https://vk.com/darthboomerplay
     Donation link: https://donationalerts.com/r/darthboomerplay_
   
 
