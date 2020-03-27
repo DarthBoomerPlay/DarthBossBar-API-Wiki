@@ -2,10 +2,10 @@
 Spigot: https://www.spigotmc.org/resources/darthbossbar.76557/
 \
 \
-My Links:\
-###    Discord: DarthBoomerPlay#6534 \
-###    VK: https://vk.com/darthboomerplay \
-###    Donation link: https://donationalerts.com/r/darthboomerplay_
+### My Links:\
+    Discord: DarthBoomerPlay#6534 \
+    VK: https://vk.com/darthboomerplay \
+    Donation link: https://donationalerts.com/r/darthboomerplay_
   
 
 # Adding DarthBossBar to your project
